@@ -43,6 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baptistelechat&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="right">
+<!-- <div align="right">
   <img src="https://profile-counter.glitch.me/baptistelechat/count.svg?"  />
-</div>
+</div> -->
