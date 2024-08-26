@@ -21,8 +21,6 @@
 
 <h2 align="left">🔗 Want to contact me ?</h2>
 
-My portfolio 👉 https://baptistelechat.vercel.app/
-
 <div align="left">
   <a href="https://x.com/baptiste_lechat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" style="margin-right:12px" alt="twitter logo"  />
@@ -35,6 +33,7 @@ My portfolio 👉 https://baptistelechat.vercel.app/
   </a>
 </div>
 
+<h3 align="left">💻 My portfolio 👉 https://baptistelechat.vercel.app/</h3>
 
 <h2 align="left">📈 My activities</h2>
 
