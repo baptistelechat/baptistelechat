@@ -4,11 +4,11 @@
 
 <p align="left">My name is Baptiste and I'm a Full Stack developer from France 🇫🇷</p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">🐱 About me</h2>
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently improve my Python skills</p>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">👨‍💻 I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="margin-right:12px" alt="nextjs logo"  />
@@ -19,7 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right:12px" alt="python logo"  />
 </div>
 
-<h2 align="left">Want to contact me ?</h2>
+<h2 align="left">🔗 Want to contact me ?</h2>
+
+My portfolio 👉 https://baptistelechat.vercel.app/
 
 <div align="left">
   <a href="https://x.com/baptiste_lechat" target="_blank">
@@ -33,7 +35,8 @@
   </a>
 </div>
 
-<h2 align="left">My activities</h2>
+
+<h2 align="left">📈 My activities</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baptistelechat&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -41,6 +44,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baptistelechat&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/baptistelechat/count.svg?"  />
 </div>
